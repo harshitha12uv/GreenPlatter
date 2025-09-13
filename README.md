@@ -65,6 +65,11 @@ GreenPlatter helps hotels:
 - 📦 Optimize inventory management  
 - 📊 Make data-driven cooking decisions  
 - ✅ Track sustainability metrics  
-- 💰 Improve cost efficiency  
+- 💰 Improve cost efficiency
+
+## 👩‍💻 Contributors
+- Harshitha Siva (https://github.com/harshitha12uv)
+- Shreya R (https://github.com/shreyaramesh-17)
+
 
 ### Built with ❤ for sustainable hospitality
